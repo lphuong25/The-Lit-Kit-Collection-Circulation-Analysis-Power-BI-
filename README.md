@@ -63,11 +63,11 @@ This repository shares the dashboard design, methodology, and aggregated screens
 
 ### Page 1 — Collection Overview
 
-![Page 1 — Collection Overview]([Screenshot 2026-10-09 220550.png](https://github.com/lphuong25/The-Lit-Kit-Collection-Circulation-Analysis-Power-BI-/blob/3cd6d7df64e7287b7b8283992ea27985745e3e49/Screenshot%202026-10-09%20220550.png))
+![Page 1 — Collection Overview](page-1-collection-overview.png)
 
 ### Page 2 — Genre Deep-Dive
 
-![Page 2 — Genre Deep-Dive]([Screenshot 2026-10-09 220618.png](https://github.com/lphuong25/The-Lit-Kit-Collection-Circulation-Analysis-Power-BI-/blob/5dd9b6c9343b94be26c928f6ac331689aa6c0203/Screenshot%202026-10-09%20220618.png))
+![Page 2 — Genre Deep-Dive](page-2-genre-deep-dive.png)
 
 ## Future Improvements
 
