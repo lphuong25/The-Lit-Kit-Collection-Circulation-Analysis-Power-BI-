@@ -55,25 +55,19 @@ Card values are formatted as whole numbers via `FORMAT ( <measure>, "#,##0" )` s
 | **Power Query** | Data cleaning and type normalization |
 | **Python** | Prior LCSH-metadata genre classification |
 
+## Viewing
+
+This repository shares the dashboard design, methodology, and aggregated screenshots only — no data files are published. The underlying book and circulation data belongs to UTDallas McDermott Library.
+
 ## Screenshots
 
 ### Page 1 — Collection Overview
 
-![Page 1 — Collection Overview](<img width="675" height="380" alt="image" src="https://github.com/user-attachments/assets/d58e88ea-940a-47cb-bd2d-83eadc2322a2" />
-)
+![Page 1 — Collection Overview](Screenshot 2026-10-09 220550.png)
 
 ### Page 2 — Genre Deep-Dive
 
-![Page 2 — Genre Deep-Dive](<img width="674" height="380" alt="image" src="https://github.com/user-attachments/assets/2002409b-6724-46d1-b0e5-0c9aa8f60c4d" />
-)
-
-## Viewing Locally
-
-1. Clone the repository.
-2. Open the `.pbix` file in Power BI Desktop.
-3. Use the page tabs at the bottom to switch between the overview and the genre deep-dive.
-
-> **Note:** raw circulation data is not committed to this repository — the `.pbix` contains the modeled dataset used for the visuals above.
+![Page 2 — Genre Deep-Dive](Screenshot 2026-10-09 220618.png)
 
 ## Future Improvements
 
@@ -83,7 +77,7 @@ Card values are formatted as whole numbers via `FORMAT ( <measure>, "#,##0" )` s
 
 ## Project Context
 
-Built as a portfolio project applying Power BI to real library operations data. The dataset and domain come from day-to-day work at UTDallas McDermott Library.
+Built as a portfolio project applying Power BI to real library operations data, following the Power BI crash course (Oct 2026). The dataset and domain come from day-to-day work at UTDallas McDermott Library.
 
 ## License
 
